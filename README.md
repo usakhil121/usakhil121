@@ -65,7 +65,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/akhilus41/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mdirfancse2023">
 </a>
 <a href="https://github.com/mdirfancse2023?tab=followers"><img src="https://img.shields.io/github/followers/mdirfancse2023?label=Followers&style=social" alt="GitHub Badge"></a>
