@@ -34,14 +34,14 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/mdirfancse2023/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Md Irfan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mdirfancse2023&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/akhilus41/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Md Akhil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilus41&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
   <br/>
-    <a href="https://github.com/mdirfancse2023/github-readme-stats"><img alt="Md Irfan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mdirfancse2023&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/mdirfancse2023/github-readme-stats"><img alt="Md Irfan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdirfancse2023&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/akhilus41/github-readme-stats"><img alt="Akhil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akhilus41&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/akhilus41/github-readme-stats"><img alt="Md Irfan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdirfancse2023&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -49,7 +49,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/mdirfancse/github-readme-activity-graph"><img alt="Md Irfan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mdirfancse2023&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/akhilus41/github-readme-activity-graph"><img alt="Md Irfan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akhilus41&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
