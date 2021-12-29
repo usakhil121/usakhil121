@@ -58,7 +58,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "linkedin.com/in/akhil-us-044537229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/akhil-us-044537229/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/akhilus.uthaman/"><img src="https://img.icons8.com/ios-filled/64/000000/facebook-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCYFXZv_egII0GGIJ8Q3cpVA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
