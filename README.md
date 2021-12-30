@@ -68,6 +68,6 @@
 <a href="https://github.com/akhilus41/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mdirfancse2023">
 </a>
-<a href="https://github.com/mdirfancse2023?tab=followers"><img src="https://img.shields.io/github/followers/mdirfancse2023?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/mdirfancse2023?tab=followers"><img src="https://img.shields.io/github/followers/akhilus41?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
