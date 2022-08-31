@@ -26,6 +26,7 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://php.net/" target="_blank">  <img src="https://img.icons8.com/wired/64/000000/php-logo.png"/> </a>
+    <a href="https://codeigniter.com/" target="_blank"> <img src="https://assets.stickpng.com/images/5847eb8bcef1014c0b5e4851.png"/> </a>  
     <a href="https://laravel.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>"</a>  
     <a href="https://clanguage.com" target="_blank"> <img src="https://img.icons8.com/fluency-systems-filled/48/000000/circled-c.png"/> </a>
     <a href="https://c++language.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
