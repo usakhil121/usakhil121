@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://itsmeakhil.vercel.app)**
 
 - 📫 How to reach me **usakhil121@gmail.com**
 
