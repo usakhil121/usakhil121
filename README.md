@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://usakhil.is-a.dev/)**
 
-- 📫 How to reach me **usakhil121@gmail.com**
+- 📫 How to reach me **devakhilus@gmail.com**
 
 - ⚡ Hobby fact **I use to create Youtube Videos very often.**
 
